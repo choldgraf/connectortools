@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: connectortools
+Version: 0.1
+Summary: Tools to assist data8 connector instructors.
+Home-page: https://github.com/choldgraf/connectortools
+Author: Chris Holdgraf
+Author-email: choldgraf@gmail.com
+License: BSD (3-clause)
+Download-URL: https://github.com/choldgraf/connectortools
+Description: # connectortools
+        A collection of tools for assisting data8 connector instructors
+Platform: any
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development
+Classifier: Topic :: Scientific/Engineering
+Classifier: Operating System :: OSX
